@@ -1,4 +1,4 @@
-# CSA1782-Artificial-Intelligence
+# CSA1782-ArtificialIntelligence
 1. Write the python program to solve 8-Puzzle problem
 2. Write the python program to solve 8-Queen problem
 3. Write the python program for Water Jug Problem
